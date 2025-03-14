@@ -1,7 +1,7 @@
 {
   "name": "desafio1",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "script.js",
   "scripts": {
     "start": "browser-sync start --server --directory --files \"*\""
   },
